@@ -9,7 +9,7 @@ Learning to create a Impact on myself and probably help others in their learning
         - subset_sum problem
         - equal sum partition
     - unbounded knapsack
-        -rod cutting problem
+        - rod cutting problem
 ## Graphs
 - bellman ford
 - floyd warshall
