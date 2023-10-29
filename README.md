@@ -13,6 +13,17 @@ Learning to create a Impact on myself and probably help others in their learning
         - coin change problem(max number of ways)
         - total number of ways to achieve target with given coins
         - minimum number of ways to achieve target with given coins
+    - Longest common subsequence
+        - similar questions are Longest common supersequence
+        - minimum number of insertions or deletions (solution not provided)
+        - longest palindromic subsequence( apply LCS with reverse) (solution not provided)
+        - minimum number of deletions to make palindrome(apply LCS with reverse) (solution not provided)
+        - Longest repeating Subsequence
+    - Matrix Chain Multiply
+        - Burst ballons
+    - Palindrome Partitioning
+    - Scrambled String(to be done)
+    - Egg Dropping(to be done)
 ## Graphs
 - bellman ford
 - floyd warshall
