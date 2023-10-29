@@ -1,7 +1,7 @@
 # LearningGoals
 Learning to create a Impact on myself and probably help others in their learning.
 
-
+## basic data structures
 ## Dynamic Programming
 - Knapsack problem
     - fractional knapsack
@@ -22,10 +22,14 @@ Learning to create a Impact on myself and probably help others in their learning
     - Matrix Chain Multiply
         - Burst ballons
     - Palindrome Partitioning
-    - Scrambled String(to be done)
-    - Egg Dropping(to be done)
-## Graphs
+    - Scrambled String
+    - Egg Dropping
+## Graphs and Trees
 - bellman ford
 - floyd warshall
 - lazy propogation
 - segment tree
+
+## number theory
+## game theory
+
