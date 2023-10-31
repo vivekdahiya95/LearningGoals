@@ -2,6 +2,16 @@
 Learning to create a Impact on myself and probably help others in their learning.
 
 ## basic data structures
+- Stack
+- Queue
+- Priority Queue
+- Hash
+- Tree
+- Graph
+- Linked List
+- Deque
+- Map 
+- Set
 ## Dynamic Programming
 - Knapsack problem
     - fractional knapsack
