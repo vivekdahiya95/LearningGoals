@@ -46,8 +46,8 @@ learning and revising
 - floyd warshall
 - lazy propogation
 - segment tree
-- binary indexed Tree
-- Square root decomposition
+- binary indexed Tree (to be implemented)
+- Square root decomposition (to be implemented)
 
 
 ## number theory
