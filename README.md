@@ -34,10 +34,21 @@ learning and revising
     - Scrambled String
     - Egg Dropping
 ## Graphs and Trees
+- DFS on trees
+- Backedge
+- LCA with and without Binary lifting(Sparse Table)
+- Union Set(with path compression optimization)
+- topological ordering
+- Prims
+- Krushkal
+- Dijkstras
 - bellman ford
 - floyd warshall
 - lazy propogation
 - segment tree
+- binary indexed Tree
+- Square root decomposition
+
 
 ## number theory
 ## game theory
